@@ -6,7 +6,6 @@ html, body, h1, h2, h3, ul, ol, li, p {
 html {
 	background: transparent url(images/bg.jpg) no-repeat top left fixed;
 	background-size: contain;
-	color: #666;
 	font: 14px/17px Arial, Helvetica, sans-serif;
 }
 
